@@ -7,9 +7,9 @@
 
 
 ### Badges
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrmizani&count_private=true&title_color=37DF31&text_color=45b5ff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=hack,scss,sass,css,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
 <a href="http://www.github.com/Reza-Javadpour"><img src="https://activity-graph.herokuapp.com/graph?username=sepehrmizani&&theme=chartreuse-dark&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
