@@ -1,4 +1,4 @@
-👋 Hi, My name is Mohammad Sepehr Mizani
+👋 Hi, My name is Sepehr
 ===============================
 
 
