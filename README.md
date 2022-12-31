@@ -2,7 +2,7 @@
 ===============================
 
 
-* ✉️  [m.sepehr.mizani@gmail.com](mailto:joy.m.sepehr.m@gmail.com)
+* ✉️  [joy.m.sepehr.m@gmail.com](mailto:joy.m.sepehr.m@gmail.com)
 
 
 
