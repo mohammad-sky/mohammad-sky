@@ -14,9 +14,9 @@
 <!-- <a href="http://www.github.com/sepehrmizani"><img src="https://activity-graph.herokuapp.com/graph?username=sepehrmizani&&theme=chartreuse-dark&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  -->
 
-
-<div style="text-align: center;"> <img src="https://github-readme-stats.vercel.app/api?username=mohammad-sky&count_private=true&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt=""> </div>
 <!--
+<div style="text-align: center;"> <img src="https://github-readme-stats.vercel.app/api?username=mohammad-sky&count_private=true&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt=""> </div>
+
 **sepehrmizani/sepehrmizani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
